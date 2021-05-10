@@ -1,2 +1,2 @@
 # ReactNative-Cheekh
-React Native project of Cheekh
+React Native project 
